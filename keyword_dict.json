@@ -1,6 +1,6 @@
 {
   "name": "keyword_dict",
-  "version": "1.0.48",
+  "version": "1.0.53",
   "map": {
     "abs": 1,
     "sqrt": 2,
@@ -102,6 +102,7 @@
     "led-matrix": 98,
     "color-sensor": 99,
     "ultrasonic-distance-sensor": 100,
-    "component": 101
+    "component": 101,
+    "volume": 102
   }
 }
